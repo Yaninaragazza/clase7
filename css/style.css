@@ -1,0 +1,75 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+  } 
+
+  header { background-color: antiquewhite;  
+  height: 200px; 
+width: 200px;
+background-image: url(https://e7.pngegg.com/pngimages/817/657/png-clipart-baked-breads-bakery-baguette-white-bread-baking-bread-baked-goods-food-thumbnail.png  );
+background-size: cover;
+
+}
+    
+
+
+ body  { background-color: deeppink; }
+
+
+ .cajon-grande{background-color: azure; 
+width: 500px; ;
+height: 500px; ; }
+
+
+ body{display:flex;
+ 
+flex-direction: column;
+padding:10px ;
+text-underline-position: auto;
+}
+
+
+
+.caja{ width: 500px;
+height: 500px;
+}
+
+.amarilla{ background-color: gold;
+padding: 100px; 
+border-radius:300px ;
+background-image: url(https://www.cronista.com/files/image/467/467194/62bcabe95cbc1.jpg);
+background-size: cover;
+box-shadow: 100px 15px aqua;
+
+}
+
+.roja{background-color: blue;  
+padding: inline start 100px; ; 
+background-size: cover;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNdKuZZ3DfCRUQIX329sNHAO_k61ywpYBk5A&s);
+border-radius: 300px;
+box-shadow:100px 15px red
+}
+
+.azul {background-color: blue;
+border-radius: 300px;
+ background-image: url(https://media.istockphoto.com/id/949890436/es/foto/sonriente-hombre-dependienta-arreglando-pasteles-frescos-en-supermercados.jpg?s=612x612&w=0&k=20&c=92R6zNYKqUk57z-DuiRlts7a64Zmvr5xuAgK_cXhb_A= );
+background-size: cover;
+padding-inline-start:100px ;
+box-shadow:100px 15px blueviolet;
+
+}
+
+li{background-color: beige; 
+ }
+
+p{ border: double;text-rendering: inherit; 
+
+text-align:center;
+margin: auto;
+box-shadow:10px 15px rgb(167, 50, 202) ;
+font-family: 'Times New Roman', Times, serif;
+}
+ 
+
+button{background-color: rgb(235, 15, 15);   }
